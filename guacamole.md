@@ -6,6 +6,6 @@ Ingredients:
 * lime
 
 Instructions:
-*mix everything together
-*mash it up
+* mix everything together
+* mash it up with a fork
 
